@@ -81,5 +81,9 @@ int main(){
 		}
 		puts("");
 	}
+	
+	puts("Press ENTER to exit...");
+	getchar();
+	getchar();
 }
 #undef MAXN
